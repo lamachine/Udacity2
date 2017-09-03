@@ -1,0 +1,251 @@
+Training...
+Epoch  1, CIFAR-10 Batch 1:  Loss 2.3027, Accuracy 0.075000:  
+[2.302525, 0.099799991]
+Epoch  1, CIFAR-10 Batch 2:  Loss 2.3016, Accuracy 0.175000:  
+[2.3025753, 0.099799998]
+Epoch  1, CIFAR-10 Batch 3:  Loss 2.3021, Accuracy 0.150000:  
+[2.3025918, 0.099799998]
+Epoch  1, CIFAR-10 Batch 4:  Loss 2.3027, Accuracy 0.075000:  
+[2.3025873, 0.099799991]
+Epoch  1, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  2, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  2, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch  2, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch  2, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  2, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  3, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch  3, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch  3, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch  3, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  3, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  4, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  4, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch  4, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch  4, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  4, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  5, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch  5, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch  5, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch  5, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch  5, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  6, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch  6, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch  6, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799994]
+Epoch  6, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025854, 0.097799987]
+Epoch  6, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  7, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  7, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch  7, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799994]
+Epoch  7, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  7, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch  8, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  8, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch  8, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025854, 0.097799994]
+Epoch  8, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  8, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097800002]
+Epoch  9, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  9, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch  9, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch  9, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch  9, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799994]
+Epoch 10, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 10, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch 10, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch 10, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 10, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 11, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 11, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch 11, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch 11, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 11, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799994]
+Epoch 12, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 12, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 12, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 12, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 12, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 13, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 13, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 13, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch 13, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 13, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 14, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025854, 0.097799987]
+Epoch 14, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch 14, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799994]
+Epoch 14, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 14, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 15, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 15, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch 15, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 15, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 15, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025854, 0.097799987]
+Epoch 16, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch 16, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch 16, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch 16, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 16, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097800002]
+Epoch 17, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch 17, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 17, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 17, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 17, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799994]
+Epoch 18, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 18, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097800002]
+Epoch 18, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799994]
+Epoch 18, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 18, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 19, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 19, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch 19, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 19, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 19, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 20, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 20, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 20, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025854, 0.097799987]
+Epoch 20, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 20, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 21, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 21, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch 21, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 21, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 21, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799987]
+Epoch 22, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch 22, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 22, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097800002]
+Epoch 22, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 22, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097799994]
+Epoch 23, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799987]
+Epoch 23, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799994]
+Epoch 23, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 23, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 23, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097800002]
+Epoch 24, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097799994]
+Epoch 24, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 24, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 24, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 24, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097800002]
+Epoch 25, CIFAR-10 Batch 1:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 25, CIFAR-10 Batch 2:  Loss 2.3026, Accuracy 0.050000:  
+[2.3025851, 0.097799987]
+Epoch 25, CIFAR-10 Batch 3:  Loss 2.3026, Accuracy 0.075000:  
+[2.3025851, 0.097799987]
+Epoch 25, CIFAR-10 Batch 4:  Loss 2.3026, Accuracy 0.100000:  
+[2.3025851, 0.097800002]
+Epoch 25, CIFAR-10 Batch 5:  Loss 2.3026, Accuracy 0.125000:  
+[2.3025851, 0.097800002]
